@@ -1,0 +1,316 @@
+@media only screen and (max-width: 1024px) and (min-width: 769px) {
+    .main-div {
+        padding: 20px 50px;
+    }
+    .ul-text {
+        padding-right: 30px;
+    }
+    .main-img {        
+        height: 50vh; 
+        background-size: cover;
+        background-attachment: inherit;
+        background-position: center;
+    }
+    .second-bg {
+        top: 30px;
+        left: 10px;
+    }
+    .second-bg h3 {
+        font-size: 30px;
+        padding-top: 100px;
+    }
+    .second-bg h4 {
+        font-size: 30px;
+    }
+    .section-two{
+        font-size: 24px;
+        text-align: center;
+        padding: 10px;
+        line-height: 50px;
+    }
+    .more {
+        font-size: 20px;
+        text-align: center;
+     }
+     .section-grid h3{
+        font-size: 26px;
+        padding-top: 45px;
+        padding-bottom: 45px;
+        padding-left: 20px;
+      }
+      .slider h2 {
+        padding: 20px 0 30px 20px;
+        font-size: 20px;
+        text-align: left;
+        margin-left: 0;
+      }
+    
+      .slidershow-container {
+        padding: 30px;
+      }
+    
+      .prev, .next {
+        font-size: 50px;
+      }
+    
+}
+
+@media only screen and (max-width: 768px) and (min-width: 641px) {
+    .menu-bar {
+        display: block;
+    }
+    .text-nav {
+        display: none;
+    }
+    .main-div {
+        padding: 20px 50px;
+    }
+    .main-img { 
+        background-size: cover;
+        background-attachment: inherit;
+        background-position: center;       
+        height: 40vh; 
+    }
+    .second-bg {
+        top: 10px;
+        left: 10px;
+    }
+    .second-bg h3 {
+        font-size: 20px;
+        padding-top: 100px;
+    }
+    .second-bg h4 {
+        font-size: 22px;
+    }
+    .section-two{
+        font-size: 24px;
+        text-align: center;
+        padding: 10px;
+        line-height: 40px;
+    }
+    .more {
+        font-size: 20px;
+        text-align: center;
+     }
+     .section-grid h3{
+        font-size: 26px;
+        padding-top: 45px;
+        padding-bottom: 45px;
+        padding-left: 20px;
+      }
+      .accor-div h3{
+        font-size: 20px; 
+      }
+      .accor-div a{
+        font-size: 20px; 
+      }
+      .accordion-container {
+        padding: 80px 90px;
+      }
+      .accordion-title {
+        font-size: 18px;
+      }
+      .titel-div {
+        padding: 30px 20px;
+      }
+      .slider h2 {
+        font-size: 24px;
+        margin-left: 50px;
+      }
+    
+      .slidershow-container {
+        padding: 20px;
+      }
+    
+      .fade-div {
+        flex-direction: column;
+        justify-content: center;
+      }
+    
+      .mySlide img {
+        padding: 5px 0;
+      }
+    
+      .ufcslid {
+        margin-left: 0;
+      }
+    
+      .prev, .next {
+        font-size: 40px;
+      }
+         .slider h2 {
+        padding: 20px 0 30px 20px;
+        font-size: 20px;
+        text-align: left;
+        margin-left: 0;
+      }
+}
+
+@media only screen and (max-width: 640px) and (min-width: 320px) {
+    .menu-bar {
+        display: block;
+    }
+    .text-nav {
+        display: none;
+    }
+    .main-div {
+        padding: 20px 20px;
+    }
+    .logo img {
+        width: 30px;
+        height: 30px;
+    }
+    .header-a {
+        font-size: 20px;
+    }
+    .main-img {        
+        height: 40vh;
+        margin-top: 70px; 
+        background-size: cover;
+        background-attachment: inherit; 
+        background-position: center;
+    }
+    .second-bg {
+        top: 10px;
+        left: 10px;
+    }
+    .second-bg h3 {
+        font-size: 20px;
+        padding-top: 100px;
+    }
+    .second-bg h4 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .section-two{
+        font-size: 20px;
+        text-align: center;
+        padding: 10px;
+        line-height: 30px;
+    }
+    .more {
+        font-size: 20px;
+        padding: 10px;
+        text-align: center;
+     }
+     .section-grid h3{
+        font-size: 22px;
+        padding-top: 45px;
+        padding-bottom: 45px;
+        padding-left: 20px;
+      }
+    .grid-container {
+        padding:  30px 20px;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+  
+
+    .accor-div h3{
+        font-size: 18px; 
+      }
+      .accor-div a{
+        font-size: 18px; 
+      }
+      .accordion-container {
+        padding: 60px 20px;
+        line-height: 30px;
+      }
+      .accordion-title {
+        font-size: 16px;
+      }
+      .titel-div {
+        padding: 30px 10px;
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        line-height: 30px;
+      }
+      .slider h2 {
+        padding: 20px 0 30px 20px;
+        font-size: 20px;
+        text-align: left;
+        margin-left: 0;
+      }
+    
+      .slidershow-container {
+        padding: 20px;
+      }
+    
+        .fade-img {
+        width: 170px;
+         height: 60px;
+         padding: 10px;
+       } 
+       .mySlide {
+        flex-direction: column;
+        
+      }
+    
+      .ufcslid {
+        width: 150px;
+        height: 60px;
+        padding: 10px;
+      }
+    
+      .prev, .next {
+        font-size: 40px;
+      }
+      .fade-div {
+        flex-direction: column;
+      }
+    }
+    
+    @media only screen and (max-width: 640px) and (min-width: 320px) {
+      .slider h2 {
+        padding: 20px 0 30px 20px;
+        font-size: 20px;
+        text-align: left;
+        margin-left: 0;
+      }
+    
+      .slidershow-container {
+        padding: 10px;
+      }
+    
+      .mySlide {
+        flex-direction: column;
+        
+      }
+      .fade-img {
+        width: 150px;
+         height: 60px;
+         padding: 10px;
+       } 
+      .mySlide img {
+        padding: 5px 0;
+      }
+    
+      .ufcslid {
+        width: 150px;
+        height: 60px;
+        padding: 10px;
+      }
+      .prev, .next {
+        font-size: 30px;
+      }
+      .footer-div {
+        column-gap: 2px;
+      }
+      .left-wrapper {
+        width: 50%;
+        padding: 50px 2px;
+        font-size: 12px;
+      }
+      .right-wrapper{
+        width: 48%;
+        padding: 50px 2px;
+          }
+      .textme {
+        width: 100px;
+      }
+      .off-screen-menu {
+        width: 100%;
+      }
+      .accordion-title::before{
+        display: none;
+      }
+}
